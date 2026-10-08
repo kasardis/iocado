@@ -1,0 +1,5 @@
+3C1518FF - brown
+AC460EFF - orangeish brown
+98BE39FF - light green
+436F30FF - dark green
+F7F2DCFF - cream
