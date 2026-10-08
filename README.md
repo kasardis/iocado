@@ -12,8 +12,10 @@ Obecny stan dokumentacji:
 ```text
 iocado/
 ├── README.md
-└── docs/
-     └── vision.md
+├── docs/
+|   └── vision.md
+└── logos
+    └── ...
 ```
 
 
