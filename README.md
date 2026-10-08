@@ -1,6 +1,6 @@
 # iocado 🥑
 
-iocado to projekt, w ramach którego chcemy dostarczyć użytkownikom inspiracji do samodzielnego gotowania z uwzględnieniem ich spersonalizowanych wymagań. Naszym celem jest również udostępnienie platformy dedykowanej dzieleniu się własnymi propozycjami przepisów przez użytkowników.
+**iocado** to projekt, w ramach którego chcemy dostarczyć użytkownikom inspiracji do samodzielnego gotowania z uwzględnieniem ich spersonalizowanych wymagań. Naszym celem jest również udostępnienie platformy dedykowanej dzieleniu się własnymi propozycjami przepisów przez użytkowników.
 
 ## Dokumentacja
 
@@ -12,7 +12,7 @@ Obecny stan dokumentacji:
 ```text
 iocado/
 ├── README.md
-├── docs/
+└── docs/
      └── vision.md
 ```
 
