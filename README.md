@@ -14,7 +14,7 @@ iocado/
 ├── README.md
 ├── docs/
 |   └── vision.md
-└── logos
+└── logos/
     └── ...
 ```
 
