@@ -1,1 +1,14 @@
-# iocado
+# iocado 🥑
+
+iocado to projekt, w ramach którego chcemy dostarczyć użytkownikom inspiracji do samodzielnego gotowania z uwzględnieniem ich spersonalizowanych wymagań. Naszym celem jest również udostępnienie platformy dedykowanej dzieleniu się własnymi propozycjami przepisów przez użytkowników.
+
+## Dokumentacja
+
+Obecny stan dokumentacji:
+- [Wizja](docs/vision.md)
+
+## Autorzy
+
+- Katarzyna Szwed
+- Szymon ?
+- Albert Pypowski
