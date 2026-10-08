@@ -7,8 +7,18 @@ iocado to projekt, w ramach którego chcemy dostarczyć użytkownikom inspiracji
 Obecny stan dokumentacji:
 - [Wizja](docs/vision.md)
 
+## Struktura
+
+```text
+iocado/
+├── README.md
+├── docs/
+     └── vision.md
+```
+
+
 ## Autorzy
 
 - Katarzyna Szwed
-- Szymon ?
+- Szymon Kośka
 - Albert Pypowski
