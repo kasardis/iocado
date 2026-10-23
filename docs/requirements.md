@@ -26,7 +26,9 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 
 | ID | Wymaganie |
 |---|---|
-
+| NFR-01 | Dane osobowe użytkowników oraz ich preferencje kulinarne muszą być przechowywane zgodnie z wymogami RODO. |
+| NFR-02 | Interfejs użytkownika musi spełniać standardy dostępności WCAG 2.1 na poziomie AA (np. odpowiedni kontrast tekstu, obsługa za pomocą klawiatury). |
+| NFR-03 | Interfejs systemu musi być responsywny i poprawnie wyświetlać się na urządzeniach mobilnych oraz stacjonarnych (ekrany o szerokości od 320px). |
 
 
 ## Pytania otwarte
