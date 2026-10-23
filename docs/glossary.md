@@ -11,3 +11,5 @@ Pojęcia opisujemy językiem dziedziny, dla której tworzymy system, a nie języ
 |---|---|
 | Przepis | Opis czynności, proporcji składników oraz instrukcji prowadzących do przygotowania konkretnego dania. |
 | Oczekiwania kulinarne | Wymagania dotyczące dania. |
+| Składnik | Produkt spożywczy, element dania potrzebny do jego przygotowania. |
+| Danie | Potrawa przygotowana według przepisu, spełniająca dane oczekiwania kulinarne. |
