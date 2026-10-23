@@ -13,6 +13,8 @@ Obecny stan dokumentacji:
 iocado/
 ├── README.md
 ├── docs/
+|   └── glossary.md
+|   └── requirements.md
 |   └── vision.md
 └── logos/
     └── ...
