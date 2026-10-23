@@ -17,6 +17,9 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 
 | ID | Wymaganie |
 |---|---|
+| FR-01 | System umożliwia użytkownikowi zdefiniowanie wymagań kulinarnych. |
+| FR-02 | System umożliwia użytkownikowi wyszukanie przepisu zgodnego z wymaganiami kulinarnymi. |
+| FR-03 | System umożliwia dodawanie własnych przepisów przez użytkowników. |
 
 
 ## Wymagania niefunkcjonalne
@@ -27,3 +30,4 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 
 
 ## Pytania otwarte
+* W jaki sposób będzie dokonywała się moderacja nadsyłanych przepisów?
