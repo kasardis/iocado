@@ -4,6 +4,6 @@ Wiele osób potrafi i lubi samemu gotować, ale często głównym problemem pozo
 
 Użytkownik będzie mógł podać swoje oczekiwania kulinarne (np. według określonej kuchni, diety czy uwzględniając uczulenie na pewne składniki) lub po prostu określić aktualną zawartość lodówki czy podstawowe składniki, które chce wykorzystać.
 
-<!-- TODO: Wyjściowa baza przepisów -->
+Po wybraniu dania użytkownik zostanie przekierowany do przepisu z innej strony(np. aniagotuje.pl).
 
 Własne modyfikacje przepisów lub w całości nowe propozycje będą mogły zostać udostępnione innym członkom społeczności iocado.
