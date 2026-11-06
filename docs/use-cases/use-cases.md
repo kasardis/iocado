@@ -14,8 +14,8 @@
 | UC-09 | Zarządzanie profilem | Użytkownik | FR-04, FR-05 |
 | UC-10 | Definiowanie wymagań kulinarnych | Użytkownik | FR-01, FR-05 |
 | UC-11 | Przeglądanie rekomendowanych przepisów | Użytkownik | FR-07 |
-| UC-12 | Edycja przepisu | Moderator | |
-| UC-13 | Potwierdzanie przepisu | Moderator | | 
-| UC-14 | Usuwanie przepisu | Moderator | |
-| UC-15 | Usuwanie uprawnień użytkownika | Moderator | |
+| UC-12 | Edycja przepisu | Moderator | FR-10 |
+| UC-13 | Potwierdzanie przepisu | Moderator | FR-10 | 
+| UC-14 | Usuwanie przepisu | Moderator | FR-10 |
+| UC-15 | Usuwanie uprawnień użytkownika | Moderator | FR-10 |
 
