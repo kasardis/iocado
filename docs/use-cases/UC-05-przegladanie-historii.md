@@ -1,0 +1,5 @@
+# UC-05 - Przeglądanie historii obejrzanych przepisów
+## Aktor
+Użytkownik
+## Cel
+Wyświetlenie listy przepisów, które poprzednio użytkownik wyświetlił
