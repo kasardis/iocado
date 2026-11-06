@@ -1,0 +1,5 @@
+# UC-03 - Wyszukiwanie przepisów zgodnych z tymczasowymi wymaganiami
+## Aktor
+Użytkownik
+## Cel
+Wyszukanie przepisów zgodnych z wymaganiami podanymi bezpośrednio przed wyszukiwaniem.
