@@ -7,7 +7,7 @@
 | UC-02 | Wyszukiwanie przepisów zgodnych ze stałymi wymaganiami | Użytkownik | FR-01, FR-02 |
 | UC-03 | Wyszukiwanie przepisów zgodnych z tymczasowymi wymaganiami | Użytkownik | FR-01, FR-02 |
 | UC-04 | Oglądanie przepisu | Użytkownik | FR-02, FR-06, FR-07, FR-08, FR-09 |
-| UC-05 | Przeglądanie historii przepisów | Użytkownik | FR-09 |
+| UC-05 | Przeglądanie historii obejrzanych przepisów | Użytkownik | FR-09 |
 | UC-06 | Przeglądanie ulubionych przepisów | Użytkownik | FR-08 |
 | UC-07 | Dodawanie przepisu | Użytkownik | FR-03 |
 | UC-08 | Ocenianie przepisów | Użytkownik | FR-06 |
