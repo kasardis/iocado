@@ -19,3 +19,6 @@
 | UC-14 | Usuwanie przepisu | Moderator | FR-10 |
 | UC-15 | Usuwanie uprawnień użytkownika | Moderator | FR-10 |
 
+## UML przypadków użycia
+![alt text](https://github.com/kasardis/iocado/blob/main/docs/use-cases/Use-case-UML.jpeg?raw=true)
+
