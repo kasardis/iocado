@@ -15,6 +15,9 @@ iocado/
 ├── docs/
 |   └── glossary.md
 |   └── requirements.md
+|   └── use-cases/
+|   |   └── use-cases.md
+|   |   └── ...
 |   └── vision.md
 └── logos/
     └── ...
