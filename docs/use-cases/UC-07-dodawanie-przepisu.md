@@ -1,0 +1,5 @@
+# UC-07 - Dodawanie przepisu
+## Aktor
+Użytkownik
+## Cel
+Podanie treści przepisu i udostępnienie go innym użytkownikom. Przepis musi przejść wcześniej proces moderacji.
