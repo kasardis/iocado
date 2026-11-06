@@ -13,3 +13,7 @@
 | UC-08 | Ocenianie przepisów | Użytkownik | |
 | UC-09 | Zarządzanie profilem | Użytkownik | |
 | UC-10 | Definiowanie wymagań kulinarnych | Użytkownik | |
+| UC-11 | Edycja przepisu | Moderator | |
+| UC-12 | Potwierdzanie przepisu | Moderator | | 
+| UC-13 | Usuwanie przepisu | Moderator | |
+| UC-14 | Usuwanie uprawnień użytkownika | |
