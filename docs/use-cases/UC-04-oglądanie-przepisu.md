@@ -1,0 +1,5 @@
+# UC-04 - Oglądanie przepisu
+## Aktor
+Użytkownik
+## Cel
+wyświetlenie szczegółowego opisu przepisu: składników i instrukcji potrzebnych do jego wykonania.
