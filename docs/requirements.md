@@ -26,6 +26,7 @@ Każde wymaganie posiada unikalny identyfikator, np. `FR-01` lub `NFR-01`.
 | FR-07 | System rekomenduje użytkownikowi przepisy, które zostały dobrze ocenione przez użytkowników o podobnych upodobaniach. |
 | FR-08 | System umożliwia zalogowanemu użytkownikowi dodawanie przepisów do listy „Ulubione”. |
 | FR-09 | System umożliwia użytkownikowi przeglądanie historii wcześniej przyrządzonych przepisów. |
+| FR-10 | Przepisy dodawane przez użytkowników są sprawdzane przez moderatora. |
 
 ## Wymagania niefunkcjonalne
 
