@@ -6,6 +6,8 @@
 
 Obecny stan dokumentacji:
 - [Wizja](docs/vision.md)
+- [Słownik](docs/glossary.md)
+- [Wymagania](docs/requiremnts.md)
 - [Use-cases](docs/use-cases)
 - [Diagram klas](docs/)
 
@@ -20,6 +22,8 @@ iocado/
 |   └── use-cases/
 |   |   └── use-cases.md
 |   |   └── ...
+|   └── diagramKlas.md
+|   └── ...
 |   └── vision.md
 └── logos/
     └── ...
