@@ -45,8 +45,8 @@ class StylGotowania {
     +Filtruj(listaPrzepisów : List<Przepis>) : void
 }
 
-Przepis "1" --> "0..*" WymaganieKulinarne : spełnia
-Przepis "1" --> "1..*" Składnik : zawiera
+Przepis "0..*" --> "0..*" WymaganieKulinarne : spełnia
+Przepis "0..*" --> "1..*" Składnik : zawiera
 
 WymaganieKulinarne <|-- Kuchnia
 WymaganieKulinarne <|-- Lodówka
