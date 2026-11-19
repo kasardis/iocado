@@ -6,6 +6,8 @@
 
 Obecny stan dokumentacji:
 - [Wizja](docs/vision.md)
+- [Use-cases](docs/use-cases)
+- [Diagram klas](docs/)
 
 ## Struktura
 
