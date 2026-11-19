@@ -46,7 +46,7 @@ class StylGotowania {
 }
 
 Przepis "0..*" --> "0..*" WymaganieKulinarne : spełnia
-Przepis "0..*" --> "1..*" Składnik : zawiera
+Przepis "0..*" o-- "1..*" Składnik : zawiera
 
 WymaganieKulinarne <|-- Kuchnia
 WymaganieKulinarne <|-- Lodówka
