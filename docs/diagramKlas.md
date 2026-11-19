@@ -1,7 +1,6 @@
 # Diagram klas
 
-~~~
-
+```
 @startuml
 
 class Składnik {
@@ -55,7 +54,6 @@ WymaganieKulinarne <|-- Dieta
 WymaganieKulinarne <|-- StylGotowania
 
 @enduml
-
-~~~
+```
 
 ![Diagram klas](./wizualizacjaUML.png)
