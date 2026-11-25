@@ -56,4 +56,4 @@ WymaganieKulinarne <|-- StylGotowania
 @enduml
 ```
 
-![Diagram klas](./wizualizacjaUML.png)
+![Diagram klas](./diagramKlasWizualizacja.png)
