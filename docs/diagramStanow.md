@@ -1,4 +1,4 @@
-# Diagram stanów
+# Diagram stanów - cykl życia przepisu
 
 ```mermaid
 stateDiagram-v2
@@ -6,7 +6,7 @@ stateDiagram-v2
         Utworzony --> Edytowany : Zacznij edycję
         WKolejce --> Sprawdzany : Zacznij sprawdzanie
 
-        Edytowany --> WKolejce : Zakończ edycję
+        Edytowany --> WKolejce : Prześlij do sprawdzenia
         Edytowany --> Usunięty : Usuń
 
         DoKorekty --> Edytowany : Edytuj
