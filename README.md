@@ -9,7 +9,8 @@ Obecny stan dokumentacji:
 - [Słownik](docs/glossary.md)
 - [Wymagania](docs/requiremnts.md)
 - [Use-cases](docs/use-cases)
-- [Diagram klas](docs/)
+- [Diagram klas](docs/diagramKlas.md)
+- [Diagram stanów](docs/diagramStanow.md)
 
 ## Struktura
 
@@ -23,8 +24,9 @@ iocado/
 |   |   └── use-cases.md
 |   |   └── ...
 |   └── diagramKlas.md
-|   └── ...
+|   └── diagramStanow.md
 |   └── vision.md
+|   └── ...
 └── logos/
     └── ...
 ```
